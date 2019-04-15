@@ -1,0 +1,169 @@
+*{
+    margin : 0 auto;
+}
+
+
+body{
+    width: 1000px;
+    height: 600px;
+    border-style: groove;
+    margin-top: 30px;
+}
+
+.l1{
+    width: 1000px;
+    height: 100px; 
+    border-style: groove;
+background: white;
+
+}
+.l2{
+    width: 1000px;
+    height: 60px; 
+    border-style: groove;
+background: blue;
+
+}
+.l3{
+    width: 1000px;
+    height: 428px; 
+    border-style: groove;
+
+font-weight: bold;
+
+}
+
+
+
+.p1{
+    
+    font-family:Arial;
+width: 30px;
+height: 40px;
+    text-decoration: none;
+    float: left;
+    background-color: white;
+    color: black
+}
+.e1{
+    font-style: oblique;
+    font-size: 300%;
+    text-align: center;
+    margin-top: -100px;
+    color :blue;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100px;
+  
+  }
+  .a1{
+      width: 245px;
+      height: 40px;
+      background: blue;
+     
+      color:white;
+ 
+  
+  }
+  .a2{
+    width: 245px;
+    height: 40px;
+    background: blue;
+ color: white;
+  }
+
+.a3{
+    width:245px;
+    height: 40px;
+    background: blue;
+    color: white;
+  }
+
+.a4{
+    width: 245px;
+    height: 40px;
+    background: blue;
+    color: white;
+  }
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+.button {
+	background:#05619e;
+	color:#fff;
+	display:inline-block;
+    font-size:1.25em;
+   
+	margin-top:1px;
+	padding:1px 0;
+	text-align:center;
+    width:246px;
+    height: 50px;;
+	text-decoration:none;
+	box-shadow:0px 3px 0px #05619e;
+}
+ 
+.button span {
+    margin-right:10px;
+    
+}
+
+.button.blue {
+	background:#05619e;
+	box-shadow:0px 3px 0px #05619e;
+}
+ 
+.button.yellow {
+	background:#05619e;
+	box-shadow:0px 3px 0px#05619e;
+}
+ 
+ 
+
+.button.medium {
+	width:350px;
+}
+ 
+ 
+.button.large {
+	width:450px;
+}
+ 
+ 
+.button.radius {
+	border-radius:50px;
+}
+ 
+/*Efectos, Hover*/
+.button:hover {
+	box-shadow:0px 0px 0px;
+	padding-top:7px;
+}
+
+.b1{
+    font-style: oblique;
+    font-size: 400%;
+    text-align: center;
+    margin-top: 150px;
+    color :red;
+}
+
